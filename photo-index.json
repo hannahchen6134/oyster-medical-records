@@ -1,0 +1,1356 @@
+{
+  "source_photos": 150,
+  "supplementary_nonphotos": 0,
+  "items": [
+    {
+      "path": "assets/gallery/2026-10-21_01_oct21_lab1.jpg",
+      "date": "2026-10-21",
+      "display_date": "2026/10/21",
+      "title": "檢驗原單",
+      "sha256": "fc035ef7737b6fef349bbe5f00f43a1e220461a901281c3687b92cfeb62a023e",
+      "medical_source": true,
+      "original": "oct21_lab1.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-21_02_oct21_lab2.jpg",
+      "date": "2026-10-21",
+      "display_date": "2026/10/21",
+      "title": "檢驗原單",
+      "sha256": "ed8a4a71b7bf2f0a89e1e8a239a1ca0dc8f75c2aa794ab91b634d21e385a570a",
+      "medical_source": true,
+      "original": "oct21_lab2.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-21_03_oct21_us1.jpg",
+      "date": "2026-10-21",
+      "display_date": "2026/10/21",
+      "title": "超音波靜態影像",
+      "sha256": "c64b42d1cc26739c2ea9eb0220e99ad4aa2a5bed56f414600a129d36acd64e5d",
+      "medical_source": true,
+      "original": "oct21_us1.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-21_04_oct21_us2.jpg",
+      "date": "2026-10-21",
+      "display_date": "2026/10/21",
+      "title": "超音波靜態影像",
+      "sha256": "bc3bda88711934879a16e8712bf825ceff6d455a796c8821da6dc3e9da04e954",
+      "medical_source": true,
+      "original": "oct21_us2.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-21_05_oct21_us3.jpg",
+      "date": "2026-10-21",
+      "display_date": "2026/10/21",
+      "title": "超音波靜態影像",
+      "sha256": "2873d7267de310bf915f8894bef7de8eb92be340f4b6094dcc65d04b453b6c93",
+      "medical_source": true,
+      "original": "oct21_us3.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-21_06_oct21_us4.jpg",
+      "date": "2026-10-21",
+      "display_date": "2026/10/21",
+      "title": "超音波動態代表影格",
+      "sha256": "6fbfad8f6a9821d3915d2960b255153e9cc5acfb9bf0d3ccf40624e995efd970",
+      "medical_source": true,
+      "original": "oct21_us4.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-21_07_oct21_us5.jpg",
+      "date": "2026-10-21",
+      "display_date": "2026/10/21",
+      "title": "超音波動態代表影格",
+      "sha256": "0a19ad795c92e03473901745b5becd6ea494f7d08094c7736e793a533b0ab907",
+      "medical_source": true,
+      "original": "oct21_us5.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-14_01_image127.jpg",
+      "date": "2026-10-14",
+      "display_date": "2026/10/14",
+      "title": "居家症狀照片",
+      "sha256": "786caaf19d350b5910f38f1cb31e7aa303575d31fe558ecb61862d01eaded807",
+      "medical_source": true,
+      "original": "image127.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-14_02_image124.jpg",
+      "date": "2026-10-14",
+      "display_date": "2026/10/14",
+      "title": "居家症狀照片",
+      "sha256": "853e033138c23d8e6e04a2a215dcb5bbac32aa4f3e9d491e7936444043ca7fb5",
+      "medical_source": true,
+      "original": "image124.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-14_03_image132.jpg",
+      "date": "2026-10-14",
+      "display_date": "2026/10/14",
+      "title": "居家症狀照片",
+      "sha256": "b2088af2017ff3cd5efbc51c16c97e05a1d7f215d9606a2495db285fec4c72fc",
+      "medical_source": true,
+      "original": "image132.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-14_04_image129.jpg",
+      "date": "2026-10-14",
+      "display_date": "2026/10/01–10/14",
+      "title": "照護紀錄截圖",
+      "sha256": "5e68d98c3be8e43855f6cdee6120e1ba78278a57cda833a789b7f48c5458fb93",
+      "medical_source": true,
+      "original": "image129.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-14_05_image126.jpg",
+      "date": "2026-10-14",
+      "display_date": "2026/10/01–10/14",
+      "title": "照護紀錄截圖",
+      "sha256": "aa55ea43b8287a678fa20f15aa50165c1de82fc36d42d4a7b4be72bc0f7d9210",
+      "medical_source": true,
+      "original": "image126.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-12_01_image146.png",
+      "date": "2026-10-12",
+      "display_date": "2026/10/12",
+      "title": "X 光原圖",
+      "sha256": "d4730be69eb931e3f68a24cca2c187d9ee791cd60159cc8f15a3442fa664fe5f",
+      "medical_source": true,
+      "original": "image146.png"
+    },
+    {
+      "path": "assets/gallery/2026-10-12_02_image130.png",
+      "date": "2026-10-12",
+      "display_date": "2026/10/12",
+      "title": "X 光原圖",
+      "sha256": "488576c99850fba5a3d69c4b2e50b3834f718ff8f5b02156842ed214776509b7",
+      "medical_source": true,
+      "original": "image130.png"
+    },
+    {
+      "path": "assets/gallery/2026-10-12_03_image143.jpg",
+      "date": "2026-10-12",
+      "display_date": "2026/10/12",
+      "title": "居家症狀照片",
+      "sha256": "9dc9a1a44e3eeb4cb755eff43d410376a42c08904bd08300b4030390664a20ca",
+      "medical_source": true,
+      "original": "image143.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-09_01_image135.jpg",
+      "date": "2026-10-09",
+      "display_date": "2026/10/09",
+      "title": "居家症狀照片",
+      "sha256": "3836b2f6bdb2ade42e9622035fa3f7f25e9c2e4511850ed11f9756819ae1e682",
+      "medical_source": true,
+      "original": "image135.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-08_01_image134.jpg",
+      "date": "2026-10-08",
+      "display_date": "2026/10/08",
+      "title": "居家症狀照片",
+      "sha256": "e5da3ff7334dc91dc702436b5a8d36279774854547a4dedf90daada4fda3a306",
+      "medical_source": true,
+      "original": "image134.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-04_01_image144.jpg",
+      "date": "2026-10-04",
+      "display_date": "2026/10/04",
+      "title": "居家症狀照片",
+      "sha256": "82dba10fadbfa7442752b644c1d12ba12d0486e92930339eb74c263893aac08b",
+      "medical_source": true,
+      "original": "image144.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-03_01_image142.jpg",
+      "date": "2026-10-03",
+      "display_date": "2026/10/03",
+      "title": "居家症狀照片",
+      "sha256": "b7a621a5897a3c12f2c04ba46092741e42fa4cba7fbfdb9ef71f506c82cdfa3e",
+      "medical_source": true,
+      "original": "image142.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-30_01_image138.jpg",
+      "date": "2026-09-30",
+      "display_date": "2026/09/30",
+      "title": "居家症狀照片",
+      "sha256": "50b4cf0183fa0948124360c3c49ce14a7b915c8f3b58a0a70dc73aa484a08cd5",
+      "medical_source": true,
+      "original": "image138.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_01_image140.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "782d3b1039fc2560c26d1bc5fe21dae961aef1bb8cde31e7658710de96f78eb0",
+      "medical_source": true,
+      "original": "image140.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_02_image145.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "47ad62ebc0cf11261c2eae391d5818d7d0e3ced00346d7b23ff792b085a37e9a",
+      "medical_source": true,
+      "original": "image145.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_03_image137.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "97f6647e070cf9513d4c37ac4e38c905687c91e56e201cf109ed6ec33c4ea14d",
+      "medical_source": true,
+      "original": "image137.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_04_image136.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "11180477c4c50dbb1f9fdcb51d5059e20a4aa559abdcf8662e1f6dc6717a6e1b",
+      "medical_source": true,
+      "original": "image136.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_05_image139.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "65eafb268156ae02aa2db1b9b7d47fe667f59a69b0d033d06c7bad2b2155faa7",
+      "medical_source": true,
+      "original": "image139.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_06_image110.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "dcd48345c60b617380087449770010e2c43543b3793e7b8e43bcf85857c8d047",
+      "medical_source": true,
+      "original": "image110.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_07_image119.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "a97e1c9ddc4dcd3673d89ef62ac81bdbd670d5843731f7727b6c9d577e0091ae",
+      "medical_source": true,
+      "original": "image119.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_08_image123.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "b38d25f5b1c9dd45c0a275b1a85a8ce69558422a2c6294e10a179d9c8b229871",
+      "medical_source": true,
+      "original": "image123.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_09_image141.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "4bffda1bb9d45c605e0f92672ddc70f9050972c0775845736209c3f3f8c22d8f",
+      "medical_source": true,
+      "original": "image141.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_10_image120.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "a0ca0526b6d7ef573be580b0688f08f114be294e3d077e56c9bd763379b0c40f",
+      "medical_source": true,
+      "original": "image120.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_11_image125.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "cdfc8d8dc45424a347166f784a263638260689571072cb1b42c86bb8c1c46062",
+      "medical_source": true,
+      "original": "image125.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_12_image122.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "090fcfb9ca65e5fab20e4e80d414477bcfc01c999f7c9d9ba422545df241b508",
+      "medical_source": true,
+      "original": "image122.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_13_image131.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "a6075f6d9a2c0ee0c8fb4fb59c7b9d45413a0c664e32f5440d47f0af02b271b3",
+      "medical_source": true,
+      "original": "image131.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_14_image128.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "032f5ad87bf44719ac85e54eb1325fa0177fb195638d07b434feeea21f5f455e",
+      "medical_source": true,
+      "original": "image128.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_15_image133.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "a08b72b6469cfb75f9f1be2c799d46ef0560c81dbc8035bde13af7f00e67d182",
+      "medical_source": true,
+      "original": "image133.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_16_image12.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "600382a8228d3e1dfe8e30e554dff7a489ec7211c921355f5a67110e6da01fa1",
+      "medical_source": true,
+      "original": "image12.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_17_image18.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "2d0c4837554ccb46a903641eeba771874405963ee95fc89cfd110f57f3ed5b52",
+      "medical_source": true,
+      "original": "image18.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_18_image10.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "c566a00beff292ec6478e251c1ed39e3caed2a9f4a048dc6e9d2c4114eb89122",
+      "medical_source": true,
+      "original": "image10.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_19_image14.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "af403c3605bd84da442fc577cb2061ad4b52b8ce4a7f2eeb10d459f5625be32b",
+      "medical_source": true,
+      "original": "image14.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_20_image13.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "468461efabbae10d0cdf92a930fb9f40b7c98a7a56492c089351f6d60536cda3",
+      "medical_source": true,
+      "original": "image13.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_21_image19.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波靜態影像",
+      "sha256": "79824696ee2d3c49cc1fbc6d4d99559c2b94b40a6c7e51165a187a6c783577d7",
+      "medical_source": true,
+      "original": "image19.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_22_image16.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "06a79e5d8ad2b179a41d257e6e76aafc1f08262b98577c3cf483ac23a4f31c23",
+      "medical_source": true,
+      "original": "image16.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_23_image20.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "4cc43c675baac8bcadd6cf2fcce81375eb0d564a3c2a3975f890782a4533efbb",
+      "medical_source": true,
+      "original": "image20.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_24_image15.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "257e0fd63013573a0438da735eca5cfc82aa76b6c6f4d97717d98a4fd3d94def",
+      "medical_source": true,
+      "original": "image15.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_25_image23.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "960827ea37ae08c00c8da7fb2f958c66d62646196ef6a4f899da5c6f4753bf31",
+      "medical_source": true,
+      "original": "image23.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_26_image1.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "b1d0706e17323b37e04a71326fea9238f02aaae1b5a7a561b6fd0e4f305649a5",
+      "medical_source": true,
+      "original": "image1.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_27_image2.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "6740240ee8cc050465730f44105674bfb17a55ae2f124f9074db0db0dd6f5cc7",
+      "medical_source": true,
+      "original": "image2.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_28_image4.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "2c0cebd2cfbfeb3e971b5d69d2efc27059d8c3de9edd84cfe82c010505126a67",
+      "medical_source": true,
+      "original": "image4.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_29_image5.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "119ba7d5561c1cc283ef46547f16c2a02444ef26e782c4aeb25da27a68679117",
+      "medical_source": true,
+      "original": "image5.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_30_image3.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "d6c424fed3e6807484e72038f3551518ff2b476d5efd8d692478fd0590a19b76",
+      "medical_source": true,
+      "original": "image3.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_31_image11.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "93a4b2e72c96ce989e7b60b2cb375fd33db79f329f0e1419765f87d72200f7f7",
+      "medical_source": true,
+      "original": "image11.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_32_image9.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "a39d14b328e74c5f2907410d999235936263d155c1d797bb5eacecca93b704ca",
+      "medical_source": true,
+      "original": "image9.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_33_image6.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "1ee538a23a0c743a581478b443e2ca850aee63f0228d1baf8802d06c8be081e3",
+      "medical_source": true,
+      "original": "image6.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_34_image7.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "9f805a96381d401d7bd009a7a58886357f98331365390f0ffe1cd2e26a4b4151",
+      "medical_source": true,
+      "original": "image7.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_35_image8.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "693b38c469a6858295f8c1013c822093da16993625dc06b42e8450946e7c0b01",
+      "medical_source": true,
+      "original": "image8.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_36_image35.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "278f4843a0f11735a3aab6a32940746f03db2f8b2b8b511a2b2340f0f168af75",
+      "medical_source": true,
+      "original": "image35.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_37_image33.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "28b4b5d4aafbe47691ed2f828c60120600a10d89e3dba9fac91f360eac485068",
+      "medical_source": true,
+      "original": "image33.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_38_image31.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "bd26c72566c21d23213fe881844f709d9d27176722b65c83cece2e7b9d7b44e1",
+      "medical_source": true,
+      "original": "image31.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-09-23_39_image32.jpg",
+      "date": "2026-09-23",
+      "display_date": "2026/09/23",
+      "title": "超音波動態代表影格",
+      "sha256": "19c9f2591e1788246d8fbee01adac5a1a89fe4e1215640b9e0bb6831067d7db7",
+      "medical_source": true,
+      "original": "image32.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-08-05_01_image40.png",
+      "date": "2026-08-05",
+      "display_date": "2026/08/05",
+      "title": "X 光原圖",
+      "sha256": "4a25909178ffb5af2cae4c191422566430b418c09c48ef98bab48276b32f0d7e",
+      "medical_source": true,
+      "original": "image40.png"
+    },
+    {
+      "path": "assets/gallery/2026-08-05_02_image39.png",
+      "date": "2026-08-05",
+      "display_date": "2026/08/05",
+      "title": "X 光原圖",
+      "sha256": "d76f803ba7d3a821b6f39fa9eff5e529a26fabc0baab2aac0d7ec61ed1394f4c",
+      "medical_source": true,
+      "original": "image39.png"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_01_image37.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "7898cb53c8d6ee85013873ced4cf02a19ecb175dff9a990b6e79e7b1082b7b97",
+      "medical_source": true,
+      "original": "image37.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_02_image38.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "17e09f62f2cc41d0e6fe16876fbf95cc54cc1d0912883963bc2f85c541e4fc20",
+      "medical_source": true,
+      "original": "image38.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_03_image43.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "a5d29e8aeff9ecc00a6a0a7ae1487f112215be4e997bd2514ae7ea74272860a7",
+      "medical_source": true,
+      "original": "image43.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_04_image50.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "b812c4b15ff66b3942299aad8b19bc49afa9490bf81a1dbdfe639cb983d446f6",
+      "medical_source": true,
+      "original": "image50.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_05_image29.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "2380e0b4bbe699edf01011512dd6509e7b35ff6cbd9bd8395c6e21ddff5b8bc6",
+      "medical_source": true,
+      "original": "image29.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_06_image25.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "3e88df90ebd90a2ca43134f6976ac81c0733d715f9d4551f03ca8553d437572a",
+      "medical_source": true,
+      "original": "image25.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_07_image36.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "8562711ed79fcc6e35fe96e1fe1bc36d9b18bd246ef5ecb1c4fde6bdb4f8f927",
+      "medical_source": true,
+      "original": "image36.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_08_image28.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "b6fba86a1aca9299a5d9a5926f34e277edf5142c5a74474c09ac26298fbd1ced",
+      "medical_source": true,
+      "original": "image28.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_09_image24.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "ce0abb40faf77b73743fa528aa4d635ce5774b1d6a93871b6821850952c9332d",
+      "medical_source": true,
+      "original": "image24.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_10_image27.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "08311555b34104aefffa86fb6bd909adf1927e05ce680c54056546e766f756ff",
+      "medical_source": true,
+      "original": "image27.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_11_image22.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波靜態影像",
+      "sha256": "fd826d892a7fedfa42d9d77449f653340d643a1de0a4d9a37dc38803317eafe3",
+      "medical_source": true,
+      "original": "image22.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_12_image26.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波動態代表影格",
+      "sha256": "24b145c9c9e9ec159e6768b87cf092de8ea07c93c9caa4371d26e02c4e9518d1",
+      "medical_source": true,
+      "original": "image26.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_13_image30.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波動態代表影格",
+      "sha256": "ffbfc4f8984b002e077c29805fe45f38f219b5560359b8e5fb31e4c3bad6c7b6",
+      "medical_source": true,
+      "original": "image30.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_14_image34.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波動態代表影格",
+      "sha256": "818b9a271c6956f5b44c7595824006f77f4a52c20463baad8b572af0858dc619",
+      "medical_source": true,
+      "original": "image34.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_15_image17.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波動態代表影格",
+      "sha256": "10b8803e75aa9d2d6efb7a1068faf5bcff2fca1be839d2ffeaef9d83464b09f1",
+      "medical_source": true,
+      "original": "image17.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_16_image21.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波動態代表影格",
+      "sha256": "cf5c90e67ba4323f9c8a6e07ea7edb8eb2f35b5cc417cc63f9ecd078c9d170d7",
+      "medical_source": true,
+      "original": "image21.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_17_image69.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波動態代表影格",
+      "sha256": "52c97c427d0fba7fb917b00835362e7e0ce12f535c28b4e69c28ff876b49066d",
+      "medical_source": true,
+      "original": "image69.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_18_image68.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波動態代表影格",
+      "sha256": "734aac110eaa68557b361e14574c28583e09fcc55702d51d4bb218e4572689d9",
+      "medical_source": true,
+      "original": "image68.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_19_image73.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波動態代表影格",
+      "sha256": "03985d83567a2854d9c29c59a0a3c7d0bab5c7572f0b2be81e7a25ee2a740c3f",
+      "medical_source": true,
+      "original": "image73.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-15_20_image74.jpg",
+      "date": "2026-07-15",
+      "display_date": "2026/07/15",
+      "title": "超音波動態代表影格",
+      "sha256": "f0a2e1d3bd184b86f3c3da57c586bd4a7866f95b1cebd83ec0ad119562de4715",
+      "medical_source": true,
+      "original": "image74.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-05_01_image75.jpg",
+      "date": "2026-07-05",
+      "display_date": "2026/07/05提供；拍攝日期不明",
+      "title": "食品照片",
+      "sha256": "6f3f8954b2563c03ca64f9100875957f5ede9ed83a5911473e70f88b7d03cb9a",
+      "medical_source": true,
+      "original": "image75.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-05_02_image76.jpg",
+      "date": "2026-07-05",
+      "display_date": "2026/07/05提供；拍攝日期不明",
+      "title": "食品照片",
+      "sha256": "16a0178572e37a6a0108447b597c6dfb83a35d49a1e85e9b26e1e75bd21f127d",
+      "medical_source": true,
+      "original": "image76.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-05_03_image79.jpg",
+      "date": "2026-07-05",
+      "display_date": "2026/07/05提供；拍攝日期不明",
+      "title": "食品照片",
+      "sha256": "66d8310a93d6c71024ca90d33400c03e5cf54040a867d5f429222aca72afd074",
+      "medical_source": true,
+      "original": "image79.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_01_image66.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "138eaaf5b20df419c50ebcbf3b1ff7ff4fd707898cebed66663a9d6c20d435a7",
+      "medical_source": true,
+      "original": "image66.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_02_image70.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "2d5570605eae95574b77d788e8734d237988729dc02a6f34f3b11347d755413d",
+      "medical_source": true,
+      "original": "image70.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_03_image72.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "a51956ac24e9d69a180487a8ccbbcd772effdc10accac4d8ce934652134df981",
+      "medical_source": true,
+      "original": "image72.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_04_image67.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "31765ccfe362d4c169887f8a08aa56065085357ee367c62d0bf7898f79f3cdd4",
+      "medical_source": true,
+      "original": "image67.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_05_image56.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "9ab86665b06e1cda15d51c1817e283cf87410cd57379cfb826509e3373b275f2",
+      "medical_source": true,
+      "original": "image56.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_06_image59.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "78d9ac178e0a3cf286172e243be87c8f9e3e6cf8e5d36357ba08c1a19dd6299f",
+      "medical_source": true,
+      "original": "image59.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_07_image54.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "8befaf59e5c541d2611dade62b9d724bc07f841feff53b4e1d6e9288d240b5ba",
+      "medical_source": true,
+      "original": "image54.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_08_image57.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "c89978a26a46e345e9d4f35077a3c3385fc5e8174cf6d51a572439dddea99177",
+      "medical_source": true,
+      "original": "image57.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_09_image51.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "6726a2c5e7c946dbcce7be9e86b58a09feafd0f45f4c17b2464e5de2a533ade8",
+      "medical_source": true,
+      "original": "image51.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_10_image58.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "b47f5d1f4194445b6f7b65b22f813e5a0da93b3d75d278ad18401443682245c4",
+      "medical_source": true,
+      "original": "image58.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_11_image63.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "5adbc1642daa9bdc8ab068ca38e1a2d38e8e85ae28664214a57a5a0936327de7",
+      "medical_source": true,
+      "original": "image63.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_12_image44.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "adb331fc20d21a1d65ab4e0eed0eba62f5b99d4bb4ee268a7ffcd29570a78b0e",
+      "medical_source": true,
+      "original": "image44.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_13_image48.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "4c5dcde0d179aecabdcbed1e557518ee1fb37ba5bf836467a2b1bb4d5b20be2d",
+      "medical_source": true,
+      "original": "image48.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_14_image45.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "b90d6015178ebfaf4d6a51745914d947f72ae8cb23588afe3cbc084bdb010604",
+      "medical_source": true,
+      "original": "image45.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_15_image52.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "4e7fd3176c2f5a7e9382f8fc1b2b059aeb2f272270874525da01b8d3729d6907",
+      "medical_source": true,
+      "original": "image52.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_16_image101.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "65cb546262b71aa9c38eaf0d47984ce7d1f9dc32255bf9be9dd418aa42e613d0",
+      "medical_source": true,
+      "original": "image101.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_17_image96.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "c64a888cb20eedea6221c900fb4b84ae1d8fb56321d9efbd74d47245ab4fd128",
+      "medical_source": true,
+      "original": "image96.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_18_image111.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "3d573d2639aa34e8e21619989cb0affcdabc8eea95ef159db722caedb07a89bd",
+      "medical_source": true,
+      "original": "image111.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_19_image98.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "222624d13fe7f9d16e4036ae3936a40050dbcff7d5d786765cc13996a5fe2dd0",
+      "medical_source": true,
+      "original": "image98.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_20_image100.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "156470d6884350988c47db76642d1e9eedfb039d7687be51bfcbade341b20a49",
+      "medical_source": true,
+      "original": "image100.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_21_image113.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "6292d388f2000edd85940575e78e090f69d05e3b1f71fca74275ccea844c337d",
+      "medical_source": true,
+      "original": "image113.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_22_image118.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "9bec25bcb1f165640c6ce6753033dd6c9e1777f860962039f087e187ab36bc1b",
+      "medical_source": true,
+      "original": "image118.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_23_image121.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "d43f735573b60066aa2999bd70867c66954cadfe0c401d59b26ba86db90e982e",
+      "medical_source": true,
+      "original": "image121.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_24_image116.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "93bb80b34d7cb703fe6efcf4dc03ee46ed84b57ee0fd24e17ec64ca4e9042478",
+      "medical_source": true,
+      "original": "image116.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_25_image115.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "2c4fa2f9409090c716b6110137a4466c285f64487f43d98225fee795b18a9ea2",
+      "medical_source": true,
+      "original": "image115.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_26_image109.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "9189e46cd43933c4c99f84510010abe962e4031981366731b981a11f201eda92",
+      "medical_source": true,
+      "original": "image109.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_27_image103.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "a3234e6384123fb98ea0f3251baed34ee44080124823b771f6fd9f5f6baee380",
+      "medical_source": true,
+      "original": "image103.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_28_image117.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "821a9049084e30f11650dbb3b6ed7be64d86cd13ae9349153cc556a5e1e8903c",
+      "medical_source": true,
+      "original": "image117.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_29_image106.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "082ccb71055cace2bb903143fee8afdd93944ad4ce1ca7307b093756f09fca64",
+      "medical_source": true,
+      "original": "image106.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_30_image107.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "0996c3fbd723ec854b8083e41786fb00b033261fe9496842d1cb3e4506a6b924",
+      "medical_source": true,
+      "original": "image107.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_31_image108.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "ea86bfba67360f9e15a930562de29473ff976548dc5c51f104b1a90eae53940e",
+      "medical_source": true,
+      "original": "image108.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_32_image90.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "7016d659c58383639e0292447e774f9b325d476a816c0aa2242572f343a8be4b",
+      "medical_source": true,
+      "original": "image90.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_33_image88.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "ea7b47adec8ca5cc4da54a475707d80badfe9c96da71fc84ae3be29b7ebf167c",
+      "medical_source": true,
+      "original": "image88.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_34_image84.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "ca97c2cee7f2dac32c081314388157315dabb071ede603e1065ec38b0a04de2d",
+      "medical_source": true,
+      "original": "image84.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_35_image93.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "846d67bfc6be59a31c25852f9f1a190e6bf037e519291cc95f3e2a8f7234a8e6",
+      "medical_source": true,
+      "original": "image93.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_36_image91.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "57f2117116c5447c0f0540ec9aabf7f52250f94de3f25658e1a45abf276c2c7d",
+      "medical_source": true,
+      "original": "image91.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_37_image85.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "e8719fbbad29aba83bb105578e786c20a3dc82ff382418ea2508e795cf6909be",
+      "medical_source": true,
+      "original": "image85.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_38_image86.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "eaecd7c5830d1e3bc2f6a84a2da5afa06f6004a65272b9f88040e327f1815c95",
+      "medical_source": true,
+      "original": "image86.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_39_image65.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波靜態影像",
+      "sha256": "6abf059aa67b81044d53542aacf96ae10355f1d9f80fa837255b70c54401674f",
+      "medical_source": true,
+      "original": "image65.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_40_image89.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "2696ae58fd7bb8b052dd534e351a383977a80dc5a9bdd3259f8eac1caec010df",
+      "medical_source": true,
+      "original": "image89.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_41_image83.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "94a71073a96cc50ad440ba6c990dbae3fcdc2cc384ce324c751fa6158fe90f38",
+      "medical_source": true,
+      "original": "image83.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_42_image114.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "ff8b7462488a5d7e900d3fa6d557e67774f25be694882656ba99fbd91101be89",
+      "medical_source": true,
+      "original": "image114.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_43_image102.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "ec006179fc52787b4ad87d1c9b01b12b7b25a1debc4f8bcd0384e35242d5da0c",
+      "medical_source": true,
+      "original": "image102.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_44_image99.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "121565aad09586d6327c239663269c14ffd87bc0a86b851432f4e12373cdc4fa",
+      "medical_source": true,
+      "original": "image99.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_45_image97.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "35577b3e7b37172c84cf66316ee0d8d5372016769136a13427eab9bd4375b466",
+      "medical_source": true,
+      "original": "image97.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_46_image105.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "9acfb4d8aa85c25cdf7bab32acdc4d65f54bdb596fa979cf32228622390d02f2",
+      "medical_source": true,
+      "original": "image105.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_47_image112.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "a55c72fbe200206fbbd19aa34ad13773f4b03aa72bc18bc32a0fab07ed1dce45",
+      "medical_source": true,
+      "original": "image112.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_48_image95.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "358010822f5c19de13962159c72bd5619fcda407026d35a010257e8454d0c97c",
+      "medical_source": true,
+      "original": "image95.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_49_image94.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "5f001efac2b9968cc2db75a3fbd47017815abc3117baa1448a450b9b5c81f318",
+      "medical_source": true,
+      "original": "image94.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_50_image104.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "0a08cd86895dd69157bf8aef6f10e1e73f2111f6e06e2f8875cfdf3f928db218",
+      "medical_source": true,
+      "original": "image104.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_51_image92.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "e0b42fc736682dcd767b5b81bb213b6b1819fab5cdebebe7c3c6b4cc1f0c0e86",
+      "medical_source": true,
+      "original": "image92.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_52_image71.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "c1de0db03c0bd49e11df4f71572fa10847917d6b303fdbe85113557c32c3ad31",
+      "medical_source": true,
+      "original": "image71.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_53_image62.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "a43ff8db71007ad3be527a8837ce5a2220a445fb53f73fb2e08e08fa92c29ab4",
+      "medical_source": true,
+      "original": "image62.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_54_image60.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "02f84449f5a571988bccb70bd7b993372f5584a3fa7284b89137167ce51b790e",
+      "medical_source": true,
+      "original": "image60.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_55_image47.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "135d97810b65229b7fe7b06277a6bfa4c908e2117d23f94a932ce298a8025935",
+      "medical_source": true,
+      "original": "image47.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_56_image49.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "0befdfbb204fd410ff5b85b77efb30f7cf35f23dafde1318f28ad2aed47b98b6",
+      "medical_source": true,
+      "original": "image49.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_57_image53.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "ebf9dcb93b5cc73263c5ed1b6c3696affc41fcb6275ad4b39f440b85c72b1821",
+      "medical_source": true,
+      "original": "image53.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_58_image55.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "d745aeac34112c7d45787c800b704413f6428c79204ea44355ed68d65f97f65a",
+      "medical_source": true,
+      "original": "image55.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_59_image42.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "90ae1e18795b482806591b2e09b8b1357eb391e2f0660b349577077e348f97bf",
+      "medical_source": true,
+      "original": "image42.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_60_image41.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "42fe8e65d31ffc7987d9a7514f62ddbe47c4302b98a8f5b29a403bdf1f9f4dfc",
+      "medical_source": true,
+      "original": "image41.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_61_image46.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "6f0203619b2ffc59743800c876b69e3d4e11b5d4a5b8730cf2a712d55174c7d6",
+      "medical_source": true,
+      "original": "image46.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_62_image87.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "6c374a5105ad5787d6eec1a2df84e45aa20c80952d95fdb05eddc1246a1596ce",
+      "medical_source": true,
+      "original": "image87.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_63_image81.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "f842d439c716952acd032c6405292c96ec6adec8e2790becebba418742b685af",
+      "medical_source": true,
+      "original": "image81.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-07-01_64_image80.jpg",
+      "date": "2026-07-01",
+      "display_date": "2026/07/01",
+      "title": "超音波動態代表影格",
+      "sha256": "e24e0eadd6fbedfc9ca459bbef4166aa0af2762cc0ad6e587115c599143f762f",
+      "medical_source": true,
+      "original": "image80.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-21_08_104753.jpg",
+      "date": "2026-10-21",
+      "display_date": "2026/10/21",
+      "title": "處方原單",
+      "sha256": "a8784a057e018353bf52bbd0f8150612e280d2bf041fcd3ececb6cee2113e08f",
+      "medical_source": true,
+      "original": "104753.jpg"
+    },
+    {
+      "path": "assets/gallery/2026-10-19_01_104769.jpg",
+      "date": "2026-10-19",
+      "display_date": "2026/10/19",
+      "title": "排便觀察原圖",
+      "sha256": "4b73f8ebb214da755b3b631014c4fdc92abbf21449dcc3496190465a6639186d",
+      "medical_source": true,
+      "original": "104769.jpg"
+    }
+  ]
+}
